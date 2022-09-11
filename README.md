@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pushprajkumar-web developer
+- 👋 Hi, I’m @pushprajkumar-Python developer
 - 👀 I’m interested in machine learning ,statistics, database,  data science ,cloud . 
 - 🌱 I’m currently learning data visualization.
 - 💞️ I’m looking to collaborate on data analysis , data science , Machine learning , mathematics .
